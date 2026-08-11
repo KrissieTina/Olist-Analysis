@@ -12,7 +12,7 @@ This page acts as the financial anchor of the report, providing the C-Suite with
 * **Key Insights:** Includes a dynamic dual-line tracker for YoY performance and a drill-down matrix to view profitability from the Product Category down to the Subcategory level using conditional formatting.
 
 <!-- PLACEHOLDER FOR PAGE 1 IMAGE -->
-![Executive Overview Dashboard]([https://github.com/KrissieTina/Olist-Analysis/blob/main/Images/Overview.PNG]
+![Executive Overview Dashboard](https://github.com/KrissieTina/Olist-Analysis/blob/main/Images/Overview.PNG)
 *Caption: Executive Overview page showing revenue trends, product profitability, and year-over-year growth.*
 
 ---
@@ -24,7 +24,7 @@ This page pivots from financials to buyer behavior, answering *who* the customer
 * **Key Insights:** Highlights the dominance of Credit Cards vs. Boletos, visualizes shopping habits by day of the week, and maps out customer satisfaction (review scores) across different Brazilian states.
 
 <!-- PLACEHOLDER FOR PAGE 2 IMAGE -->
-![Customer Analysis Dashboard]([https://github.com/KrissieTina/Olist-Analysis/blob/main/Images/Customer%20Analysi.PNG]
+![Customer Analysis Dashboard](https://github.com/KrissieTina/Olist-Analysis/blob/main/Images/Customer%20Analysi.PNG)
 *Caption: Customer Analysis page showing payment preferences, review scores by state, and order volume.*
 
 ## The Data Model
